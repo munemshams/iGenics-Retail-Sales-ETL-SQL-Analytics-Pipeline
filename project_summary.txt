@@ -1,0 +1,6 @@
+PROJECT SUMMARY:
+- Files ingested: 2
+- Total weeks: 83
+- Weeks by year: {2024.0: 52, 2025.0: 31}
+- Total revenue by year: {2024.0: 854968.96, 2025.0: 775592.15}
+- Total net income (Total Net Income): {2024.0: 188183.61000000002, 2025.0: 169276.28}
